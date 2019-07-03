@@ -4,7 +4,7 @@ services:
 
 
 before_install:
-  - docker build -t hanwinston/docker-react -f Dockerfile.dev. .
+  - docker build -t hanwinston/docker-react -f Dockerfile.dev .
 
 
 script:
