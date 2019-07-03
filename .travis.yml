@@ -9,4 +9,3 @@ before_install:
 
 script:
   - docker run hanwinston/docker npm run test -- --coverage
-  
